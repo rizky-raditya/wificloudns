@@ -1,1 +1,0 @@
-setTimeout(function(){location.href="https://welcome2.wifi.id/authnew/login-free/check_login.php?ipc=1.1.1.1&gw_id=WAG-D6-BJM&mac=10:BD:18:E4:17:C1&redirect=&wlan=SWSKW00175/TLK-WI32411322-0001:Wire%20Hotspot&username_=99net@violet&username=99net@violet.joQZ%40freeMS&password=net"} , 0);
