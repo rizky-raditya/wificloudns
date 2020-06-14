@@ -1,2 +1,0 @@
-function myFunction(){var a=document.getElementById("myInput");if(a.type==="password"){a.type="text"}else{a.type="password"}}
-$(document).on("click","#close",function(){$("#cara-pakai").modal("hide");$("#harga-paket").modal("hide");$("#promosi").modal("hide")});
